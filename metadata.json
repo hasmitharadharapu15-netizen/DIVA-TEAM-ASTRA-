@@ -1,0 +1,6 @@
+{
+  "name": "DIVA — Disaster Intelligence & Verification Agent",
+  "description": "AI-powered real-time multimodal disaster intelligence and human decision-support platform that investigates disasters, not just detects them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
